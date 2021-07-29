@@ -10,7 +10,7 @@
   * Identify products that are suitable for cross-selling and upselling
 
 
-### Dataset link:
+### Dataset link
 
 Dataset – Online Retail Dataset
 
